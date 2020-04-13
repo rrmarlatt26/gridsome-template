@@ -1,29 +1,19 @@
 {
   "name": "my-blog",
-  "private": true,
-  "scripts": {
-    "build": "gridsome build",
-    "develop": "gridsome develop",
-    "explore": "gridsome explore"
-  },
-  "dependencies": {
-    "gridsome": "^0.7.0",
-    "tailwindcss": "^1.2.0"
-  },
-  "description": "This is the project you get when you run `gridsome create new-project`.",
   "version": "1.0.0",
+  "description": "",
   "main": "gridsome.config.js",
-  "devDependencies": {
-    "gridsome-plugin-tailwindcss": "^2.2.43"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrmarlatt26/gridsome-template.git"
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rrmarlatt26/my-blog.git"
-  },
   "bugs": {
-    "url": "https://github.com/rrmarlatt26/my-blog/issues"
+    "url": "https://github.com/rrmarlatt26/gridsome-template/issues"
   },
-  "homepage": "https://github.com/rrmarlatt26/my-blog#readme"
+  "homepage": "https://github.com/rrmarlatt26/gridsome-template#readme"
 }
