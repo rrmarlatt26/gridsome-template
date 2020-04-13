@@ -1,5 +1,5 @@
 {
-  "name": "my-template",
+  "name": "my-blog",
   "private": true,
   "scripts": {
     "build": "gridsome build",
@@ -17,5 +17,13 @@
     "gridsome-plugin-tailwindcss": "^2.2.43"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrmarlatt26/gridsome-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rrmarlatt26/gridsome-template/issues"
+  },
+  "homepage": "https://github.com/rrmarlatt26/gridsome-template#readme"
 }
