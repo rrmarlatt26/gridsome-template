@@ -20,10 +20,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rrmarlatt26/gridsome-template.git"
+    "url": "git+https://github.com/rrmarlatt26/my-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/rrmarlatt26/gridsome-template/issues"
+    "url": "https://github.com/rrmarlatt26/my-blog/issues"
   },
-  "homepage": "https://github.com/rrmarlatt26/gridsome-template#readme"
+  "homepage": "https://github.com/rrmarlatt26/my-blog#readme"
 }
