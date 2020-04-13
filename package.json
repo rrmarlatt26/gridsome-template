@@ -1,0 +1,21 @@
+{
+  "name": "my-template",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "tailwindcss": "^1.2.0"
+  },
+  "description": "This is the project you get when you run `gridsome create new-project`.",
+  "version": "1.0.0",
+  "main": "gridsome.config.js",
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^2.2.43"
+  },
+  "author": "",
+  "license": "ISC"
+}
